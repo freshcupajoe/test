@@ -1,5 +1,5 @@
 This repository is for the Food Bank application designed by Open Source for Good Contributors at [freeCodeCamp](http://www.freecodecamp.com).      
-      
+       
 We have a [live demo](https://food-bank-app-demo.herokuapp.com). Login with username `ad min` and password `password`.
      
 You can also test it out by deploying to [Heroku](https://www.heroku.com): 
