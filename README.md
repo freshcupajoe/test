@@ -47,3 +47,4 @@ Once MongoDB is set up, you should create an admin account. Edit the admin-confi
 to add him to your database.
 
 Finally, type `npm start` to start the application. If all goes well, it will be available at `http://localhost:3000`.
+ 
