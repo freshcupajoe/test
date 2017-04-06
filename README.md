@@ -27,7 +27,7 @@ You'll need to have the latest verison of node.js installed. Either use your OS'
 Next, [install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) if it is not already installed. To clone this repository to your local machine, open a command line interface and navigate to your projects directory. Then type
 
 `$ git clone https://github.com/FreeCodeCamp/food-bank-app.git`
-
+ 
 Move to the `food-bank-app` subdirectory and type `npm install`. This installs all of Foodbank Template's dependencies.
 
 Foodbank Template uses the Grunt taskrunner to automate build processes. Install it globally with `npm install -g grunt-cli`
